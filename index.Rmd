@@ -1,19 +1,17 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Max Fourman"
+image: "max.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
+#  - label: LinkedIn
+#    url: "https://linkedin.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/maxfourman"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/maxfourman"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:maxfourman@gmail.com"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a Medical Student soon to start work as a FY1 doctor based in Raigmore hospital, Inverness. I am interested in genomics, data science and medical education.
